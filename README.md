@@ -1,7 +1,7 @@
 <p align="center"><img width="280px" src="https://raw.githubusercontent.com/meilisearch/heed/main/assets/heed-pigeon-logo.png"></a></p>
 <h1 align="center" >heed</h1>
 
-[![License](https://img.shields.io/badge/license-MIT-green)](#LICENSE)
+[![Licxxxjzjzxzense](https://img.shields.io/badge/license-MIT-green)](#LICENSE)
 [![Crates.io](https://img.shields.io/crates/v/heed)](https://crates.io/crates/heed)
 [![Docs](https://docs.rs/heed/badge.svg)](https://docs.rs/heed)
 [![dependency status](https://deps.rs/repo/github/meilisearch/heed/status.svg)](https://deps.rs/repo/github/meilisearch/heed)
